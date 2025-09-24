@@ -33,10 +33,7 @@ Skills you’ll gain:
 
 ## 🛠 How to Use This Repository
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/daominhthuan42/datapot-data-analytics-bootcamp.git
-````
+1. Clone the repository: **git clone https://github.com/daominhthuan42/datapot-data-analytics-bootcamp.git**
 
 2. Choose the course folder (DP-080 or PL-300)
 3. Read notes, run SQL scripts, open Power BI files
